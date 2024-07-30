@@ -22,3 +22,5 @@ Add functionality to edit book titles.
 Implement local storage to persist the TBR list between sessions.
 Allow users to categorize books.
 Improve the user interface with additional features and styling.
+
+![Screenshot 2024-07-30 185303](https://github.com/user-attachments/assets/3ed8acf5-7310-4f8b-b4f7-6faff3de2a8a)
